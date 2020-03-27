@@ -1,2 +1,2 @@
-# CrowdStrike-Hackathon-Every-Second-Counts
-Solution for CrowdStrike Hackathon 2020
+# CrowdStrike-Hackathon-Every-Second-Counts 2020
+Solution for CrowdStrike Hackathon Round 2
